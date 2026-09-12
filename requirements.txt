@@ -2,3 +2,8 @@ pandas>=2.0
 numpy>=1.24
 openpyxl>=3.1
 matplotlib>=3.7
+reportlab>=4.0
+
+# только для боевого бота (tracking/bot.py);
+# анализ и эмулятор работают без него
+# aiogram>=3.0

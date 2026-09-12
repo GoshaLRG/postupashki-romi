@@ -1,0 +1,5 @@
+date_start,date_end,type,incremental_revenue_est,contribution_est,max_justified_cost,romi_inc,confidence
+2026-08-08,2026-08-12,sale,834089,708975.65,708975.65,,high
+2026-08-22,2026-08-25,product_launch,703528,597998.7999999999,597998.7999999999,,high
+2026-08-30,2026-08-31,product_launch,220136,187115.6,187115.6,,medium
+2026-09-05,2026-09-06,traffic_spike,516286,438843.1,438843.1,,medium

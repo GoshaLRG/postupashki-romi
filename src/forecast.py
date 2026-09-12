@@ -4,8 +4,8 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-DATA_PATH = "data/daily_metrics.csv"
-OUT_DIR = "output"
+DATA_PATH = "../data/daily_metrics.csv"
+OUT_DIR = "../output"
 TARGET_COL = "orders"
 MIN_TRAIN = 14
 HORIZON = 7
