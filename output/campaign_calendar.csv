@@ -1,0 +1,5 @@
+date_start,date_end,days,type,orders,orders_baseline,uplift_orders,revenue,revenue_baseline,incremental_revenue_est,discount_depth,max_uplift_ratio,evidence,confidence,knowledge_level,launched_courses
+2026-08-08,2026-08-12,5,sale,158,37.0,121.0,1215957,381868,834089,0.447,9.71,"всплеск заказов + провал цены; запуск: Data Engenering, Алгоритмы, Алгоритмы старт, Аналитика про",high,estimated,"Data Engenering, Алгоритмы, Алгоритмы старт, Аналитика про"
+2026-08-22,2026-08-25,4,product_launch,99,30.0,69.0,971368,267840,703528,0.165,5.2,всплеск заказов + новый курс в продаже,high,estimated,AI агенты
+2026-08-30,2026-08-31,2,product_launch,38,17.0,21.0,382528,162392,220136,0.056,2.53,всплеск заказов + новый курс в продаже,medium,estimated,Дискретка
+2026-09-05,2026-09-06,2,traffic_spike,94,38.0,56.0,880759,364473,516286,0.11,2.58,всплеск заказов без скидки,medium,estimated,
