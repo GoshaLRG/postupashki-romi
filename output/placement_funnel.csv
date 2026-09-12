@@ -1,0 +1,12 @@
+placement_id,channel_title,campaign_id,creative_id,cost,touches,leads,payments,revenue,cr_touch_to_pay,cac,measurable
+c01_p01_cr2,Физтех лайф,launch_sep,cr2,9000.0,50,17,6,47270.0,0.12,1500,True
+c05_p01_cr2,Стажировки РФ,launch_sep,cr2,15000.0,63,18,6,43825.0,0.095,2500,True
+c01_p01_cr1,Физтех лайф,launch_sep,cr1,9000.0,44,16,6,33945.0,0.136,1500,True
+c03_p01_cr1,Хочу в BigTech,launch_sep,cr1,25000.0,31,13,4,28870.0,0.129,6250,True
+c07_p01_cr1,DS чат,evergreen,cr1,15000.0,42,8,4,27890.0,0.095,3750,True
+c02_p01_cr2,ИТМО мемы,launch_sep,cr2,6000.0,70,9,3,20940.0,0.043,2000,True
+c04_p01_cr1,Матан выживание,launch_sep,cr1,9000.0,28,8,3,20455.0,0.107,3000,True
+c05_p01_cr1,Стажировки РФ,launch_sep,cr1,15000.0,63,21,3,16965.0,0.048,5000,True
+c06_p01_cr1,Абитуриент 2027,evergreen,cr1,7500.0,21,3,2,15440.0,0.095,3750,True
+c08_p01_cr1,Бауманка,launch_sep,cr1,11000.0,34,6,2,11485.0,0.059,5500,True
+c02_p01_cr1,ИТМО мемы,launch_sep,cr1,6000.0,74,14,0,0,0.0,,True

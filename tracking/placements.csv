@@ -1,0 +1,12 @@
+placement_id,channel_id,channel_title,campaign_id,creative_id,publication_time,cost,format,deep_link,is_synthetic
+c01_p01_cr1,c01,Физтех лайф,launch_sep,cr1,2026-09-04 12:00:00,9000.0,пост,https://t.me/PostupashkiBot?start=c01_p01_cr1,1
+c01_p01_cr2,c01,Физтех лайф,launch_sep,cr2,2026-09-04 12:00:00,9000.0,пост,https://t.me/PostupashkiBot?start=c01_p01_cr2,1
+c02_p01_cr1,c02,ИТМО мемы,launch_sep,cr1,2026-09-04 15:00:00,6000.0,пост,https://t.me/PostupashkiBot?start=c02_p01_cr1,1
+c02_p01_cr2,c02,ИТМО мемы,launch_sep,cr2,2026-09-04 15:00:00,6000.0,пост,https://t.me/PostupashkiBot?start=c02_p01_cr2,1
+c03_p01_cr1,c03,Хочу в BigTech,launch_sep,cr1,2026-09-05 10:00:00,25000.0,нативная интеграция,https://t.me/PostupashkiBot?start=c03_p01_cr1,1
+c04_p01_cr1,c04,Матан выживание,launch_sep,cr1,2026-09-05 11:00:00,9000.0,пост,https://t.me/PostupashkiBot?start=c04_p01_cr1,1
+c05_p01_cr1,c05,Стажировки РФ,launch_sep,cr1,2026-09-05 18:00:00,15000.0,нативная интеграция,https://t.me/PostupashkiBot?start=c05_p01_cr1,1
+c05_p01_cr2,c05,Стажировки РФ,launch_sep,cr2,2026-09-05 18:00:00,15000.0,нативная интеграция,https://t.me/PostupashkiBot?start=c05_p01_cr2,1
+c06_p01_cr1,c06,Абитуриент 2027,evergreen,cr1,2026-09-06 09:00:00,7500.0,пост,https://t.me/PostupashkiBot?start=c06_p01_cr1,1
+c07_p01_cr1,c07,DS чат,evergreen,cr1,,15000.0,пост,https://t.me/PostupashkiBot?start=c07_p01_cr1,1
+c08_p01_cr1,c08,Бауманка,launch_sep,cr1,2026-09-06 14:00:00,11000.0,кружок,https://t.me/PostupashkiBot?start=c08_p01_cr1,1
